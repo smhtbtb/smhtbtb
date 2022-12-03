@@ -36,14 +36,13 @@ I am Mohammad Hosein Tabatabaei; I graduated in civil engineering from [IUST](ht
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Django-0B6121?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-0B6121?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-D7DF01?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-D7DF01?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
