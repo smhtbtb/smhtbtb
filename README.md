@@ -4,9 +4,9 @@ I am Mohammad Hosein Tabatabaei; I graduated in civil engineering from [IUST](ht
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="smhtbtb" /> </p>
 
-- 🌱 I’m currently learning ** Python, REST API, and MongoDB **
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for growing **
+- 🌱 I’m currently learning **Python, REST API, and gRPC**
+- 👯 I’m looking to collaborate on Web Development Related Projects
+- 🤔 I’m looking for growing
 - 🥅 2023 Goals: Learn about machine learning
 - ⚡ Fun fact: I love listening musics, seeing movies, playing video games.
 
