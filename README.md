@@ -69,9 +69,6 @@ I am Mohammad Hosein Tabatabaei; I graduated in civil engineering from [IUST](ht
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
     
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://github.com/smhtbtb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smhtbtb" height="30" width="40" /></a>
 <a href="https://t.me/smh_tb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="smh_tb" height="30" width="40" /></a>
