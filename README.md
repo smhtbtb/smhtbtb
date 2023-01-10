@@ -16,7 +16,6 @@ I am Mohammad Hosein Tabatabaei; I graduated in civil engineering from [IUST](ht
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=smhtbtb&row=1&no-bg=true)
 ![Mohammad Hosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=smhtbtb&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhtbtb&theme=great-gatsby&layout=compact)](https://github.com/smhtbtb)
 </br>
